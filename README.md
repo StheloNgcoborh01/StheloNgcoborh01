@@ -16,7 +16,7 @@ Skilled in web and native application development, I enjoy designing end-to-end 
 |---------|-------------|------|
 | **News App** | A web application that fetches and displays news articles from an API. | [GitHub](https://github.com/StheloNgcoborh01/News-App) |
 | **Smart Asset Management System (Anti-theft)** | An IoT-based system for tracking and securing assets to prevent theft. | [GitHub](https://github.com/StheloNgcoborh01/Smart-Asset-Management-System-Anti-theft-) |
-|**Smart Bin Management System** | A system that leverages both hardware and software technicallity, Automatically Monitors Bin level if full then report to the staff. Web app to monitor the dash Level. and triggered the email for bin full alert. [GitHub](https://github.com/StheloNgcoborh01/Smart-bin-Management-System) |
+|**Smart Bin Management System** | A system that leverages both hardware and software technicallity, Automatically Monitors Bin level if full then report to the staff. Web app to monitor the dash Level. and triggered the email for bin full alert. | [GitHub](https://github.com/StheloNgcoborh01/Smart-bin-Management-System) |
 
 ## Certificates
 - [The Complete Full-stack Web development bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-17d66a30-af72-4f68-bada-0dc90ac25406.jpg?v=1755727942000)
