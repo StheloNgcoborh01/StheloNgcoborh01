@@ -17,7 +17,7 @@ Skilled in web and native application development, I enjoy designing end-to-end 
 | **News App** | A web application that fetches and displays news articles from an API. | [GitHub](https://github.com/StheloNgcoborh01/News-App) |
 | **Smart Asset Management System (Anti-theft)** | An IoT-based system for tracking and securing assets to prevent theft. | [GitHub](https://github.com/StheloNgcoborh01/Smart-Asset-Management-System-Anti-theft-) |
 |**Smart Bin Management System** | A system that leverages both hardware and software technicallity, Automatically Monitors Bin level if full then report to the staff. Web app to monitor the dash Level. and triggered the email for bin full alert. | [GitHub](https://github.com/StheloNgcoborh01/Smart-bin-Management-System) |
-| ** Automated-Local-Network-Scanner ** | A simple but powerful local-network device scanner built using Node.js, Express, EJS, ARP lookup, and Ping utilities. This tool allows you to view devices connected to your network and check their online status through a clean, interactive UI.| [GitHub](https://github.com/StheloNgcoborh01/Automated-Local-Network-Scanner]) |
+| ** Automated-Local-Network-Scanner ** | A simple but powerful local-network device scanner built using Node.js, Express, EJS, ARP lookup, and Ping utilities. This tool allows you to view devices connected to your network and check their online status through a clean, interactive UI.| [GitHub](https://github.com/StheloNgcoborh01/Automated-Local-Network-Scanner) |
 
 
 ## Certificates
