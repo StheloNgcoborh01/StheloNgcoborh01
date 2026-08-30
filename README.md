@@ -7,7 +7,7 @@ Skilled in web and native application development, I enjoy designing end-to-end 
 ## Skills
 - **Languages:** C#, C, JavaScript, Python
 - **Frameworks:** React, Node.js
-- **Backend : ** ASP.NET Core, Entity Framework, JWT,REST APIs, LINQ
+- **Backend:** ASP.NET Core, Entity Framework, JWT,REST APIs, LINQ
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 - **Cloud Platforms:** Microsoft Azure (Azure Functions, Azure IoT Hub, Azure SQL Database)
