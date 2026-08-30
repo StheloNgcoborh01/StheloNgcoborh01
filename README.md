@@ -6,7 +6,8 @@ Skilled in web and native application development, I enjoy designing end-to-end 
 
 ## Skills
 - **Languages:** C#, C, JavaScript, Python
-- **Frameworks:** React, Node.js 
+- **Frameworks:** React, Node.js
+- **Backend : ** ASP.NET Core, Entity Framework, JWT,REST APIs, LINQ
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 - **Cloud Platforms:** Microsoft Azure (Azure Functions, Azure IoT Hub, Azure SQL Database)
@@ -14,12 +15,13 @@ Skilled in web and native application development, I enjoy designing end-to-end 
 ## Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Smart Asset Management System (Anti-theft)** | A C# Native Desktop IoT-based system for tracking and securing assets to prevent theft. | [GitHub](https://github.com/StheloNgcoborh01/Smart-Asset-Management-System-Anti-theft-) |
-| **News App** | A web application that fetches and displays news articles from an API. | [GitHub](https://github.com/StheloNgcoborh01/News-App) |
-|**Smart Bin Management System** | A End to End system that leverages both hardware and software technicallity, Automatically Monitors Bin level if full then report to the staff. Web app to monitor the dash Level. and triggered the email for bin full alert. | [GitHub](https://github.com/StheloNgcoborh01/Smart-bin-Management-System) |
+| **Clinic Booking System** | A full-stack clinic booking system designed for university health clinics. Patients can book appointments, manage their bookings, and communicate with the clinic, while administrators have full control over appointments, users, and messages | [Repo GitHub link](https://github.com/StheloNgcoborh01/Dut-Clinic-Booking-System) |
+| **News App** | Telo News is a dynamic web application that aggregates and displays news articles from multiple categories using the NewsAPI. Users can browse the latest news in categories such as Sports, Technology, Science, Health, Entertainment, and more. The application also features secure user authentication, allowing users to sign up, log in, and access personalized content.
+This project demonstrates integration of backend APIs, user authentication, and dynamic frontend rendering using modern web technologies. | [Repo GitHub link](https://github.com/StheloNgcoborh01/News-App) |
+|**Smart Bin Management System** | A End to End system that leverages both hardware and software technicality, Automatically Monitors Bin level if full then report to the staff. Web app to monitor the dash Level. and triggered the email for bin full alert. | [GitHub](https://github.com/StheloNgcoborh01/Smart-bin-Management-System) |
 | **Github profile finder** | A React web application to search GitHub profiles Using Rest API from github , which views profiles and track recent searches using Github RestFull API. | [Github](https://github.com/StheloNgcoborh01/Github-Profile-Finder) |
 | **Automated-Local-Network-Scanner** | A simple web app but powerful local-network device scanner built using Node.js, Express, EJS, ARP lookup, and Ping utilities. This tool allows you to view devices connected to your network and check their online status through a clean, interactive UI.| [GitHub](https://github.com/StheloNgcoborh01/Automated-Local-Network-Scanner) |
-
+| **Smart Asset Management System (Anti-theft)** | A C# Native Desktop IoT-based system for tracking and securing assets to prevent theft. | [Repo GitHub link](https://github.com/StheloNgcoborh01/Smart-Asset-Management-System-Anti-theft-) |
 
 
 ## Certificates
